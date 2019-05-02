@@ -556,10 +556,10 @@ function closeWindow_add(sender, args) {
             <telerik:RadScriptManager ID="RadScriptManager1" runat="server">
             </telerik:RadScriptManager>
             <telerik:RadNotification ID="RadNotification1" runat="server" Skin="Glow" LoadContentOn="FirstShow" AutoCloseDelay="8000" Width="450px" Height="150px"
-                Title="CAMS Error - Please Correct Before Continuing" Animation="Fade" Position="Center" Visible="False" VisibleOnPageLoad="True">
+                Title="CAMS Error - Please Correct Before Continuing." Animation="Fade" Position="Center" Visible="False" VisibleOnPageLoad="True">
             </telerik:RadNotification>
             <telerik:RadNotification ID="RadNotification2" runat="server" Skin="Glow" LoadContentOn="FirstShow" AutoCloseDelay="8000" Width="450px" Height="150px"
-                Title="CAMS Error - Cannot save Breakdown Event in 'Planning'" Animation="Fade" Position="Center" Visible="False" VisibleOnPageLoad="True">
+                Title="CAMS Error - Cannot save Breakdown Event in 'Planning.'" Animation="Fade" Position="Center" Visible="False" VisibleOnPageLoad="True">
             </telerik:RadNotification>
             <asp:HiddenField ID="HF_PageCount" runat="server" Value="0" />
             <asp:HiddenField ID="HF_PageName" runat="server" />
