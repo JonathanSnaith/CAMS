@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt__TEST.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt__TEST.aspx" />
+  <event action="Analyze" type="Success" name="flt__TEST.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt__TEST.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_ASSET.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_ASSET_ATTRIBUTE_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_ASSET_ATTRIBUTE_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_ASSET_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_EVENT.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_EVENT_ATTRIBUTE_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_EVENT_ATTRIBUTE_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_EVENT_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_OTHER.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_OTHER_ATTRIBUTE_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_OTHER_ATTRIBUTE_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_OTHER_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SITE.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SITE.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_SITE.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SITE.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_SMU.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_SMU_ATTRIBUTE_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU_ATTRIBUTE_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_SMU_ATTRIBUTE_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_SMU_ATTRIBUTE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_TRIGGERS.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_ADD_TO_ALL_MODEL_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_ADD_TO_ALL_MODEL_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_TRIGGERS_ADD_TO_ALL_MODEL_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_ADD_TO_ALL_MODEL_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_ADD_TO_ASSET_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_ADD_TO_ASSET_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_TRIGGERS_ADD_TO_ASSET_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_ADD_TO_ASSET_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_MOD.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_MOD.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_TRIGGERS_MOD.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_ADMIN_TRIGGERS_MOD.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_AUDIT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_AUDIT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_AUDIT_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\ADMIN\flt_AUDIT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_ASSET_LIST.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_ASSET_LIST_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_ASSET_LIST_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_LIST_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_ASSET_MOVEMENTS.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_ASSET_MOVEMENTS_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_ASSET_MOVEMENTS_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_ASSET_MOVEMENTS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_HISTORY_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_HISTORY_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_PART_HISTORY_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_HISTORY_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_HISTORY_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_HISTORY_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_PART_HISTORY_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_HISTORY_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_PART_LIST.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_PART_LIST_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_AM_PART_LIST_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\ASSET_MANAGEMENT\flt_AM_PART_LIST_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Binary References" path="I:\DEVELOPER\FLEET\FLEET\Bin\" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_ADMIN_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_ADMIN_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_ADMIN_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_ADMIN_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_ASSET_MANAGEMENT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_ASSET_MANAGEMENT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_ASSET_MANAGEMENT_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_ASSET_MANAGEMENT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_DASHBOARDS_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_DASHBOARDS_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_DASHBOARDS_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_DASHBOARDS_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_DATA_INPUT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_DATA_INPUT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_DATA_INPUT_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_DATA_INPUT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_EVENT_MANAGEMENT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_EVENT_MANAGEMENT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_EVENT_MANAGEMENT_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_EVENT_MANAGEMENT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_MAIN_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_MAIN_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_MAIN_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_MAIN_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_REPORT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_REPORT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="flt_REPORT_HOME.aspx" path="I:\DEVELOPER\FLEET\FLEET\CLIENT\flt_REPORT_HOME.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_ASSET.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_CHART.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_CHART.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_CHART.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_CHART.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_EVENT.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT_CAL.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT_CAL.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_EVENT_CAL.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT_CAL.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT_OLD.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT_OLD.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_EVENT_OLD.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_EVENT_OLD.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_PLANNING.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_PLANNING.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_PLANNING.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_PLANNING.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_PrimeMoverReport.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_PrimeMoverReport.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_PrimeMoverReport.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_PrimeMoverReport.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_SERVICING.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_SERVICING.aspx" />
+  <event action="Analyze" type="Success" name="flt_D_SERVICING.aspx" path="I:\DEVELOPER\FLEET\FLEET\DASHBOARDS\flt_D_SERVICING.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\ACTIVITY\flt_ACTIVITY_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\ACTIVITY\flt_ACTIVITY_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="flt_ACTIVITY_INPUT.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\ACTIVITY\flt_ACTIVITY_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\ACTIVITY\flt_DATA_INPUT_ACTIVITY_EDIT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\ACTIVITY\flt_DATA_INPUT_ACTIVITY_EDIT.aspx" />
+  <event action="Analyze" type="Success" name="flt_DATA_INPUT_ACTIVITY_EDIT.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\ACTIVITY\flt_DATA_INPUT_ACTIVITY_EDIT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\BRAKE\flt_BRAKETEST_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\BRAKE\flt_BRAKETEST_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="flt_BRAKETEST_INPUT.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\BRAKE\flt_BRAKETEST_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\BRAKE\flt_DATA_INPUT_BRK_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\BRAKE\flt_DATA_INPUT_BRK_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_DATA_INPUT_BRK_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\BRAKE\flt_DATA_INPUT_BRK_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\FUEL\flt_DATA_INPUT_FUEL_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\FUEL\flt_DATA_INPUT_FUEL_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_DATA_INPUT_FUEL_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\FUEL\flt_DATA_INPUT_FUEL_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\FUEL\flt_FUEL_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\FUEL\flt_FUEL_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="flt_FUEL_INPUT.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\FUEL\flt_FUEL_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\PLANTACTIVITY\PlantActivity.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\PLANTACTIVITY\PlantActivity.aspx" />
+  <event action="Analyze" type="Success" name="PlantActivity.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\PLANTACTIVITY\PlantActivity.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\PLANTACTIVITY\PlantActivity_Update.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\PLANTACTIVITY\PlantActivity_Update.aspx" />
+  <event action="Analyze" type="Success" name="PlantActivity_Update.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\PLANTACTIVITY\PlantActivity_Update.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\SMU\flt_DATA_INPUT_SMU_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\SMU\flt_DATA_INPUT_SMU_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_DATA_INPUT_SMU_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\SMU\flt_DATA_INPUT_SMU_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\SMU\flt_SMU_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\SMU\flt_SMU_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="flt_SMU_INPUT.aspx" path="I:\DEVELOPER\FLEET\FLEET\DATA_INPUT\SMU\flt_SMU_INPUT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\Default.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\Default.aspx" />
+  <event action="Analyze" type="Success" name="Default.aspx" path="I:\DEVELOPER\FLEET\FLEET\Default.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_ACTIVE_EVENTS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_ACTIVE_EVENTS.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_ACTIVE_EVENTS.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_ACTIVE_EVENTS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_ARCHIVE_EVENTS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_ARCHIVE_EVENTS.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_ARCHIVE_EVENTS.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_ARCHIVE_EVENTS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_EVENTS_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_EVENTS_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_POP_UP.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_POP_UP.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_EVENTS_POP_UP.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_EVENTS_POP_UP.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FITTERS_TIMESHEETS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FITTERS_TIMESHEETS.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_FITTERS_TIMESHEETS.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FITTERS_TIMESHEETS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_ADD_BLANK_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_ADD_BLANK_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_FT_ADD_BLANK_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_ADD_BLANK_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_FT_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_FT_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_FT_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_JOBS.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_JOBS_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_JOBS_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_JOBS_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_PLANNING_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_PLANNING_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_PLANNING_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_PLANNING_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_SER_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ARC_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ARC_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_SER_ARC_ADD_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ARC_ADD_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ARC_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ARC_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_SER_ARC_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_ARC_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="flt_EM_SER_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_EM_SER_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_PURCHASE_ORDER.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_PURCHASE_ORDER.aspx" />
+  <event action="Analyze" type="Success" name="flt_PURCHASE_ORDER.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\flt_PURCHASE_ORDER.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\xxflt_EM_EVENTS_ARCHIVE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\xxflt_EM_EVENTS_ARCHIVE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="xxflt_EM_EVENTS_ARCHIVE_EDIT_RW.aspx" path="I:\DEVELOPER\FLEET\FLEET\EVENT_MANAGEMENT\xxflt_EM_EVENTS_ARCHIVE_EDIT_RW.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="flt_REPORT_ASSET.aspx" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_ASSET.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_DATAINPUT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_DATAINPUT.aspx" />
+  <event action="Analyze" type="Success" name="flt_REPORT_DATAINPUT.aspx" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_DATAINPUT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="flt_REPORT_EVENT.aspx" path="I:\DEVELOPER\FLEET\FLEET\REPORTS\flt_REPORT_EVENT.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Denied.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Denied.aspx" />
+  <event action="Analyze" type="Success" name="SEC_Denied.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Denied.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Redirect.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Redirect.aspx" />
+  <event action="Analyze" type="Success" name="SEC_Redirect.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Redirect.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Start.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Start.aspx" />
+  <event action="Analyze" type="Success" name="SEC_Start.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\SEC_Start.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxAccess_Denied.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxAccess_Denied.aspx" />
+  <event action="Analyze" type="Success" name="xxAccess_Denied.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxAccess_Denied.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxflt_PERMISSIONS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxflt_PERMISSIONS.aspx" />
+  <event action="Analyze" type="Success" name="xxflt_PERMISSIONS.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxflt_PERMISSIONS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxSet_Session.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxSet_Session.aspx" />
+  <event action="Analyze" type="Success" name="xxSet_Session.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxSet_Session.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxSet_Session_Email_Redirect.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxSet_Session_Email_Redirect.aspx" />
+  <event action="Analyze" type="Success" name="xxSet_Session_Email_Redirect.aspx" path="I:\DEVELOPER\FLEET\FLEET\SECURITY\xxSet_Session_Email_Redirect.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\Start.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\Start.aspx" />
+  <event action="Analyze" type="Success" name="Start.aspx" path="I:\DEVELOPER\FLEET\FLEET\Start.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_ASSET_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_ASSET_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="view_ASSET_INCOMPLETE_FIELDS.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_ASSET_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_DEFECTS_NO_PLAN_DATE.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_DEFECTS_NO_PLAN_DATE.aspx" />
+  <event action="Analyze" type="Success" name="view_DEFECTS_NO_PLAN_DATE.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_DEFECTS_NO_PLAN_DATE.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_DEFECTS_OVERDUE.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_DEFECTS_OVERDUE.aspx" />
+  <event action="Analyze" type="Success" name="view_DEFECTS_OVERDUE.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_DEFECTS_OVERDUE.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_EXPIRED_ESTIMATED.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_EXPIRED_ESTIMATED.aspx" />
+  <event action="Analyze" type="Success" name="view_EVENT_EXPIRED_ESTIMATED.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_EXPIRED_ESTIMATED.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="view_EVENT_INCOMPLETE_FIELDS.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_ORDER_DELIVERY_DATES.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_ORDER_DELIVERY_DATES.aspx" />
+  <event action="Analyze" type="Success" name="view_EVENT_ORDER_DELIVERY_DATES.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_EVENT_ORDER_DELIVERY_DATES.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_JOB_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_JOB_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="view_JOB_INCOMPLETE_FIELDS.aspx" path="I:\DEVELOPER\FLEET\FLEET\VIEWS\AUDIT\view_JOB_INCOMPLETE_FIELDS.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="I:\DEVELOPER\FLEET\FLEET\web.config" />
+  <event action="Analyze" type="Success" name="I:\...\FLEET\" path="I:\DEVELOPER\FLEET\FLEET" />
+  <event action="Analyze" type="Success" name="Assembly References" path="I:\DEVELOPER\Utilities\Utilities\Utilities.vbproj" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="I:\DEVELOPER\Utilities\Utilities\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="Utilities" path="I:\DEVELOPER\Utilities\Utilities\Utilities.vbproj" />
+  <event action="Analyze" type="Success" name="FLEET" path="I:\DEVELOPER\FLEET\FLEET.sln" />
+</log>
